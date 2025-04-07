@@ -1,7 +1,7 @@
 # HangMAN
 SPECIFICAȚII
 #1. Structura Programului
-- Fișierul "hangman.c" – Conține codul efectiv al jocului.
+- Fișierul "main.c" – Conține codul efectiv al jocului.
 - Fișierul "words.txt" – Stochează lista de cuvinte (unul pe fiecare linie).
 
 #2. Componentele pentru realizarea jocului
